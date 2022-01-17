@@ -4,12 +4,6 @@ function upCarousel(){
 
     let product = [
         {
-            image: '../assets/images/deshaucio.jpg',
-            alt: 'grupo-estrategia-legal-deshaucio',
-            subtitle: 'Herencias',
-            paragraph: 'Es un acto jurídico por el cual una persona estipula quien o quienes serán las personas que podrán disponer de todos sus bienes al momento de su muerte. Dicho documento debe ser bien redactado para que sea entendible y conforme a la ley vigente.',
-        },
-        {
             image: '../assets/images/compraventa.jpg',
             alt: 'grupo-estrategia-legal-compraventa',
             subtitle: 'Posesión efectiva',
@@ -20,6 +14,12 @@ function upCarousel(){
             alt: 'grupo-estrategia-legal-particion',
             subtitle: 'Juicios de partición',
             paragraph: 'Si dos o más personas no han logrado acordar la forma de liquidar o repartir los bienes, se procede a un juicio, en donde es necesario estar representado por un abogado de cara a las resoluciones que adquiera el árbitro de la partición.',
+        },
+        {
+            image: '../assets/images/deshaucio.jpg',
+            alt: 'grupo-estrategia-legal-deshaucio',
+            subtitle: 'Herencias',
+            paragraph: 'Es un acto jurídico por el cual una persona estipula quien o quienes serán las personas que podrán disponer de todos sus bienes al momento de su muerte. Dicho documento debe ser bien redactado para que sea entendible y conforme a la ley vigente.',
         },
         {
             image: '../assets/images/cesion.jpg',

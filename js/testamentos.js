@@ -6,7 +6,7 @@ function upCarousel(){
         {
             image: '../assets/images/deshaucio.jpg',
             alt: 'grupo-estrategia-legal-deshaucio',
-            subtitle: 'Herencias',
+            subtitle: 'Testamento',
             paragraph: 'Es un acto jurídico por el cual una persona estipula quien o quienes serán las personas que podrán disponer de todos sus bienes al momento de su muerte. Dicho documento debe ser bien redactado para que sea entendible y conforme a la ley vigente.',
         },
         {

@@ -108,6 +108,10 @@ body{
     text-align: left;
 }
 
+.presentation-benefits:nth-of-type(3){
+    display: none;
+}
+
 .presentation-benefits img {
     height: fit-content;
     margin-right: 20px;
@@ -397,6 +401,9 @@ body{
     }
     .presentation-benefits {
         font-size: 18px;
+    }
+    .presentation-benefits:nth-of-type(3){
+        display: block;
     }
     .form-background {
         width: 320px;

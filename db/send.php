@@ -15,7 +15,7 @@
 
     $server = "localhost";
     $user = "sociodig_user_grupodefensalegal";
-    $password ="yzmsgqG{j,kr";
+    $password ="";
     $database = "sociodig_grupodefensalegal";
     
     $conexion = new mysqli($server, $user, $password, $database);
@@ -102,7 +102,7 @@ $message = '<html><body>';
 		$mail2->Host       = 'blue107.dnsmisitio.net';
 		$mail2->SMTPAuth   = true;
 		$mail2->Username   = 'notificacion@grupoestrategialegal.cl';
-		$mail2->Password   = ',IL8,tD8tlSF';
+		$mail2->Password   = '';
 		$mail2->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
 		$mail2->Port       = 465;   
 		$mail2->CharSet = 'UTF-8';
